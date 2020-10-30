@@ -1,5 +1,5 @@
 # gfwlist2dnsmasq
-A shell script which convert gfwlist into dnsmasq rules.
+一个将gfw转换为dnsmasq规则的shell脚本。划分黑白名单
 
 Working on both Linux-based (Debian/Ubuntu/Cent OS/OpenWrt/LEDE/Cygwin/Bash on Windows/etc.) and BSD-based (FreeBSD/Mac OS X/etc.) system.
 
